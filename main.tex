@@ -1,0 +1,25 @@
+\documentclass[10pt,openany]{book}
+
+\usepackage{MedRefStyle}
+\usepackage{subfiles}
+
+\begin{document}
+
+\subfile{./tex/title}
+
+\renewcommand{\contentsname}{\color{mainColor} Contents}
+\tableofcontents
+
+\twocolumn
+
+\part{Critical Care}
+	
+\chapter{Vasopressors} \label{ch:vasopressors}
+\subfile{./tex/critical-care/vasopressors}
+
+\part{Toxicology}
+
+\chapter{Methemoglobinemia} \label{ch:methemoglobinemia}
+\subfile{./tex/toxicology/methemoglobinemia}
+	
+\end{document}

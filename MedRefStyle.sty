@@ -1,0 +1,75 @@
+\ProvidesPackage{MedRefStyle}
+
+% Packages
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+\usepackage[table,dvipsnames]{xcolor}
+\usepackage[yyyymmdd]{datetime}
+\renewcommand{\dateseparator}{-}
+\usepackage{enumitem,titling,fancyhdr,amsmath,amssymb,array,sectsty,graphicx,caption,multicol,hyperref,mhchem,subcaption,float}
+\graphicspath{./img/}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=linkColor,
+	citecolor=linkColor,
+	urlcolor=linkColor
+}
+
+
+
+% Document Setup
+\usepackage[left=0.5in,right=0.5in,top=0.75in,bottom=0.75in]{geometry}
+\pagestyle{fancy}
+\fancypagestyle{plain}{} % Makes plain the same as fancy, for chapters, title, toc, etc
+
+
+	% Header Setup
+	\fancyhf{}
+	\lhead{\color{mainColor}\bfseries\nouppercase{\leftmark}}
+	%\rhead{\color{mainColor} \theauthor}
+	\lfoot{\color{mainColor} Last Updated: \thedate}
+	\rfoot{\color{mainColor} \thepage}
+	\renewcommand{\headrule}{\color{accentColor}\rule[1em]{\textwidth}{1pt}}
+	%\renewcommand{\footrule}{\color{accentColor}\rule[1em]{\textwidth}{1pt}}
+
+	% Paragraph Skip Setup
+	\setlength{\parindent}{0em}
+	\setlength{\parskip}{0.75em}
+
+	% Section Setup
+	\allsectionsfont{\bfseries}
+	\partfont{\color{mainColor} \Huge}
+	\chapterfont{\color{mainColor}\scshape}
+	\chaptertitlefont{\sectionrule{0pt}{0pt}{-0.5em}{2pt}}
+	\sectionfont{\color{mainColor}\scshape\LARGE\sectionrule{0pt}{0pt}{-0.5em}{1pt}}
+	\subsectionfont{\color{mainColor}\large}
+	\subsubsectionfont{\color{mainColor}}
+
+    % TOC Setup
+    \setcounter{tocdepth}{0}
+
+% Biblography
+\usepackage[style=nejm]{biblatex}
+\addbibresource{./medical_reference_sheets.bib}
+
+
+% Document Parameters
+\title{\thesection}
+\author{Corbin Cox}
+\date{\today}
+
+\definecolor{mainColor}{HTML}{2C4770}
+\definecolor{accentColor}{HTML}{804015}
+\definecolor{tableColor}{HTML}{B4C5E4}
+\definecolor{linkColor}{HTML}{AA6639}
+
+\renewcommand{\arraystretch}{1.25}
+\setlength{\tabcolsep}{0.75em}
+
+
+% Custom Commands
+
+\newcommand{\printmybib}{
+	\vfill \sectionfont{\color{mainColor}} \printbibliography[heading=subbibliography]
+}
