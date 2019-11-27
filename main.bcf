@@ -2137,11 +2137,47 @@
     <bcf:datasource type="file" datatype="bibtex">./medical_reference_sheets.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 1 -->
+  <bcf:bibdata section="1">
+    <bcf:datasource type="file" datatype="bibtex">./medical_reference_sheets.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="1">
+    <bcf:citekey order="1">jentzerPharmacotherapyUpdateUse2015b</bcf:citekey>
+    <bcf:citekey order="2">jentzerPharmacotherapyUpdateUse2015b</bcf:citekey>
+    <bcf:citekey order="3">lexi-drugsMilrinone</bcf:citekey>
+    <bcf:citekey order="4">lexi-drugsMilrinone</bcf:citekey>
+    <bcf:citekey order="5">overgaardInotropesVasopressorsReview2008a</bcf:citekey>
+    <bcf:citekey order="5">jentzerPharmacotherapyUpdateUse2015b</bcf:citekey>
+    <bcf:citekey order="6">overgaardInotropesVasopressorsReview2008a</bcf:citekey>
+    <bcf:citekey order="6">jentzerPharmacotherapyUpdateUse2015b</bcf:citekey>
+    <bcf:citekey order="7">weingartPushdosePressorsImmediate2015a</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 2 -->
+  <bcf:bibdata section="2">
+    <bcf:datasource type="file" datatype="bibtex">./medical_reference_sheets.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="2">
     <bcf:citekey order="1" nocite="1">goldfrankGoldfrankManualToxicologic2007</bcf:citekey>
     <bcf:citekey order="2" nocite="1">ludlowMethemoglobinemia2019</bcf:citekey>
     <bcf:citekey order="3" nocite="1">prasadDapsoneInducedMethemoglobinemia2008</bcf:citekey>
     <bcf:citekey order="4" nocite="1">shihanaSimpleQuantitativeBedside2010</bcf:citekey>
     <bcf:citekey order="5" nocite="1">skoldMethemoglobinemiaPathogenesisDiagnosis2011</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 3 -->
+  <bcf:bibdata section="3">
+    <bcf:datasource type="file" datatype="bibtex">./medical_reference_sheets.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="3">
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
@@ -2150,7 +2186,16 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
-  <bcf:datalist section="0"
+  <bcf:datalist section="1"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="2"
                 name="none/global//global/global"
                 type="entry"
                 sortingtemplatename="none"

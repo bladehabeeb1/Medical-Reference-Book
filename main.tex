@@ -4,22 +4,44 @@
 \usepackage{subfiles}
 
 \begin{document}
+	
+\pagenumbering{roman}
+
 
 \subfile{./tex/title}
 
 \renewcommand{\contentsname}{\color{mainColor} Contents}
 \tableofcontents
 
-\twocolumn
+\chapter*{Foreword}
+\subfile{./tex/foreword}
+
+\pagenumbering{arabic}
 
 \part{Critical Care}
-	
+
+\begin{refsection}
 \chapter{Vasopressors} \label{ch:vasopressors}
 \subfile{./tex/critical-care/vasopressors}
+\end{refsection}
 
 \part{Toxicology}
 
+\begin{refsection}
 \chapter{Methemoglobinemia} \label{ch:methemoglobinemia}
 \subfile{./tex/toxicology/methemoglobinemia}
+\end{refsection}
+
+
+\part{Miscellaneous}
+
+\begin{refsection}
+\chapter{Pharmacokinetics} \label{ch:pk}
+\subfile{./tex/misc/pk}
+\end{refsection}
+
 	
 \end{document}
+
+% T-Color Box Lit-Deep-Dive Formatting Parameters
+%[title=TITLE, fonttitle=\bfseries \large,colframe=mainColor, floatplacement=b, float]

@@ -17,7 +17,206 @@
 \endgroup
 
 
-\refsection{0}
+\refsection{1}
+  \datalist[entry]{none/global//global/global}
+    \entry{jentzerPharmacotherapyUpdateUse2015b}{article}{}
+      \name{author}{4}{}{%
+        {{hash=75813aad9b627010e630f1f26a6abd57}{%
+           family={Jentzer},
+           familyi={J\bibinitperiod},
+           given={Jacob\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=691e83664ca6fee67b0a327f477440bb}{%
+           family={Coons},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4088ea6e376d7b90c0cd175e563f75a2}{%
+           family={Link},
+           familyi={L\bibinitperiod},
+           given={Christopher\bibnamedelima B.},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=7e240aa68127f9a1072832ba8f816dd1}{%
+           family={Schmidhofer},
+           familyi={S\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea81cafe193f01382a2bcfbb95d43ecf}
+      \strng{fullhash}{ea81cafe193f01382a2bcfbb95d43ecf}
+      \strng{bibnamehash}{ea81cafe193f01382a2bcfbb95d43ecf}
+      \strng{authorbibnamehash}{ea81cafe193f01382a2bcfbb95d43ecf}
+      \strng{authornamehash}{ea81cafe193f01382a2bcfbb95d43ecf}
+      \strng{authorfullhash}{ea81cafe193f01382a2bcfbb95d43ecf}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper summarizes the pharmacologic properties of vasoactive medications used in the treatment of shock, including the inotropes and vasopressors. The clinical application of these therapies is discussed and recent studies describing their use and associated outcomes are also reported. Comprehension of hemodynamic principles and adrenergic and non-adrenergic receptor mechanisms are salient to the appropriate therapeutic utility of vasoactive medications for shock. Vasoactive medications can be classified based on their direct effects on vascular tone (vasoconstriction or vasodilation) and on the heart (presence or absence of positive inotropic effects). This classification highlights key similarities and differences with respect to pharmacology and hemodynamic effects. Vasopressors include pure vasoconstrictors (phenylephrine and vasopressin) and inoconstrictors (dopamine, norepinephrine, and epinephrine). Each of these medications acts as vasopressors to increase mean arterial pressure by augmenting vascular tone. Inotropes include inodilators (dobutamine and milrinone) and the aforementioned inoconstrictors. These medications act as inotropes by enhancing cardiac output through enhanced contractility. The inodilators also reduce afterload from systemic vasodilation. The relative hemodynamic effect of each agent varies depending on the dose administered, but is particularly apparent with dopamine. Recent large-scale clinical trials have evaluated vasopressors and determined that norepinephrine may be preferred as a first-line therapy for a broad range of shock states, most notably septic shock. Consequently, careful selection of vasoactive medications based on desired pharmacologic effects that are matched to the patient’s underlying pathophysiology of shock may optimize hemodynamics while reducing the potential for adverse effects.}
+      \field{issn}{1074-2484, 1940-4034}
+      \field{journaltitle}{J Cardiovasc Pharmacol Ther}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{Pharmacotherapy {{Update}} on the {{Use}} of {{Vasopressors}} and {{Inotropes}} in the {{Intensive Care Unit}}}
+      \field{urlday}{26}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{volume}{20}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{249\bibrangedash 260}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1177/1074248414559838
+      \endverb
+      \verb{file}
+      \verb /Users/corbincox/Zotero/storage/8R5SYP7R/Jentzer et al. - 2015 - Pharmacotherapy Update on the Use of Vasopressors .pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/1074248414559838
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/1074248414559838
+      \endverb
+    \endentry
+    \entry{lexi-drugsMilrinone}{online}{}
+      \name{author}{1}{}{%
+        {{hash=40d1bf6e4b61e3fa28922262d5b1c9a0}{%
+           family={{Lexi-Drugs}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{40d1bf6e4b61e3fa28922262d5b1c9a0}
+      \strng{fullhash}{40d1bf6e4b61e3fa28922262d5b1c9a0}
+      \strng{bibnamehash}{40d1bf6e4b61e3fa28922262d5b1c9a0}
+      \strng{authorbibnamehash}{40d1bf6e4b61e3fa28922262d5b1c9a0}
+      \strng{authornamehash}{40d1bf6e4b61e3fa28922262d5b1c9a0}
+      \strng{authorfullhash}{40d1bf6e4b61e3fa28922262d5b1c9a0}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Lexicomp}
+      \field{title}{Milrinone}
+      \field{urlday}{26}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/corbincox/Zotero/storage/9FNFQB43/7300.html
+      \endverb
+      \verb{urlraw}
+      \verb http://online.lexi.com.ezproxy.lib.purdue.edu/lco/action/doc/retrieve/docid/patch_f/7300?cesid=40MoAG2VKHX&searchUrl=%2Flco%2Faction%2Fsearch%3Fq%3Dmilrinone%26t%3Dname%26va%3Dmilrinone
+      \endverb
+      \verb{url}
+      \verb http://online.lexi.com.ezproxy.lib.purdue.edu/lco/action/doc/retrieve/docid/patch_f/7300?cesid=40MoAG2VKHX&searchUrl=%2Flco%2Faction%2Fsearch%3Fq%3Dmilrinone%26t%3Dname%26va%3Dmilrinone
+      \endverb
+    \endentry
+    \entry{overgaardInotropesVasopressorsReview2008a}{article}{}
+      \name{author}{2}{}{%
+        {{hash=daa87dc456cadb6f1b33e332da5d9e9b}{%
+           family={Overgaard},
+           familyi={O\bibinitperiod},
+           given={Christopher\bibnamedelima B.},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=d5e974cf784abc85f842b9bac73e1960}{%
+           family={Džavík},
+           familyi={D\bibinitperiod},
+           given={Vladimír},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{2735fdd5e60b36ac8dd0bb6feffbcce3}
+      \strng{fullhash}{2735fdd5e60b36ac8dd0bb6feffbcce3}
+      \strng{bibnamehash}{2735fdd5e60b36ac8dd0bb6feffbcce3}
+      \strng{authorbibnamehash}{2735fdd5e60b36ac8dd0bb6feffbcce3}
+      \strng{authornamehash}{2735fdd5e60b36ac8dd0bb6feffbcce3}
+      \strng{authorfullhash}{2735fdd5e60b36ac8dd0bb6feffbcce3}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{2}
+      \field{issn}{0009-7322, 1524-4539}
+      \field{journaltitle}{Circulation}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{10}
+      \field{shorttitle}{Inotropes and {{Vasopressors}}}
+      \field{title}{Inotropes and {{Vasopressors}}: {{Review}} of {{Physiology}} and {{Clinical Use}} in {{Cardiovascular Disease}}}
+      \field{urlday}{26}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{volume}{118}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1047\bibrangedash 1056}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1161/CIRCULATIONAHA.107.728840
+      \endverb
+      \verb{file}
+      \verb /Users/corbincox/Zotero/storage/N8APQ5ZB/Overgaard and Džavík - 2008 - Inotropes and Vasopressors Review of Physiology a.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.107.728840
+      \endverb
+      \verb{url}
+      \verb https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.107.728840
+      \endverb
+    \endentry
+    \entry{weingartPushdosePressorsImmediate2015a}{article}{}
+      \name{author}{1}{}{%
+        {{hash=71e1847ecc820b11245239501f653bcc}{%
+           family={Weingart},
+           familyi={W\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{71e1847ecc820b11245239501f653bcc}
+      \strng{fullhash}{71e1847ecc820b11245239501f653bcc}
+      \strng{bibnamehash}{71e1847ecc820b11245239501f653bcc}
+      \strng{authorbibnamehash}{71e1847ecc820b11245239501f653bcc}
+      \strng{authornamehash}{71e1847ecc820b11245239501f653bcc}
+      \strng{authorfullhash}{71e1847ecc820b11245239501f653bcc}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{issn}{2383-4625}
+      \field{journaltitle}{Clin Exp Emerg Med}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{Push-Dose Pressors for Immediate Blood Pressure Control}
+      \field{urlday}{26}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{volume}{2}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{131\bibrangedash 132}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.15441/ceem.15.010
+      \endverb
+      \verb{file}
+      \verb /Users/corbincox/Zotero/storage/MU733T97/Weingart - 2015 - Push-dose pressors for immediate blood pressure co.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ceemjournal.org/journal/view.php?doi=10.15441/ceem.15.010
+      \endverb
+      \verb{url}
+      \verb http://ceemjournal.org/journal/view.php?doi=10.15441/ceem.15.010
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
   \datalist[entry]{none/global//global/global}
     \entry{goldfrankGoldfrankManualToxicologic2007}{collection}{}
       \name{editor}{2}{}{%

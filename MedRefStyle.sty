@@ -7,7 +7,7 @@
 \usepackage[table,dvipsnames]{xcolor}
 \usepackage[yyyymmdd]{datetime}
 \renewcommand{\dateseparator}{-}
-\usepackage{enumitem,titling,fancyhdr,amsmath,amssymb,array,sectsty,graphicx,caption,multicol,hyperref,mhchem,subcaption,float}
+\usepackage{enumitem,titling,fancyhdr,amsmath,amssymb,array,sectsty,graphicx,caption,multicol,hyperref,mhchem,subcaption,float,siunitx,todonotes,wrapfig,tcolorbox}
 \graphicspath{./img/}
 \hypersetup{
 	colorlinks=true,
@@ -60,7 +60,7 @@
 \date{\today}
 
 \definecolor{mainColor}{HTML}{2C4770}
-\definecolor{accentColor}{HTML}{804015}
+\definecolor{accentColor}{HTML}{AA6639}
 \definecolor{tableColor}{HTML}{B4C5E4}
 \definecolor{linkColor}{HTML}{AA6639}
 
@@ -71,5 +71,15 @@
 % Custom Commands
 
 \newcommand{\printmybib}{
-	\vfill \sectionfont{\color{mainColor}} \printbibliography[heading=subbibliography]
+	\sectionfont{\color{mainColor}} \printbibliography[heading=subbibliography]
 }
+
+\newenvironment{summarybox}[1][]{
+	\tcolorbox[title=Key Points,fonttitle=\bfseries \large,colframe=mainColor,colback=mainColor!12.5 #1]}
+	{\endtcolorbox}
+	
+\newenvironment{ddbox}[2][]{
+	\tcolorbox[title=#2,fonttitle=\bfseries \large,colframe=accentColor,colback=accentColor!12.5 #1]}
+{\endtcolorbox}
+
+% Optional Argument for above to change to float: [,float, floatplacement=h]

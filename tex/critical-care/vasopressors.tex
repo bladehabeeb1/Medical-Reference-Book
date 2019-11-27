@@ -1,5 +1,125 @@
 \documentclass[main.tex]{subfiles}
 
 \begin{document}
-	test
+	
+\begin{summarybox}
+	\todo[inline]{Add pressor abbreviations}
+\end{summarybox}
+
+\section{Receptor Pharmacology}
+\begin{itemize}[noitemsep]
+	\item $\alpha_1$: Peripheral Vasoconstriction
+	\item $\beta_1$: Chronotropy / Inotropy
+	\item $\beta_2$: Bronchodilation, Vasodilation
+	\item V$_1$: Vasoconstriction
+	\item V$_2$: Renal fluid retention
+	\item Ang-II: Vasoconstriction, activation of aldosterone
+	\item PDE-3: Inotropy, vasodilation
+\end{itemize}
+
+\todo[inline]{Add table for physiologic effects of receptor stimulation from Vasoactive Drugs in Circulatory Shock, also add pictures/graphs from favorite vasopressor article}
+
+\begin{table}[h]
+\centering
+\caption{Adrenergic Receptor Specificity\autocite{jentzerPharmacotherapyUpdateUse2015b}}
+\label{tab:adrenergic-receptor-specificity}
+\rowcolors{2}{white}{tableColor}
+\begin{tabular}{l c c c}
+	\textbf{Drug} & $\mathbf{\alpha_1}$ & $\mathbf{\beta_1}$ & $\mathbf{\beta_2}$\\ \hline
+	Phenylephrine & 4+ & 0 & 0 \\
+	Norepinephrine & 4+ & 2+ & 1+ \\
+	Epinephrine & 2+ -- 4+ & 1+ & 1+ -- 3+ \\
+	Dopamine & 0 -- 3+ & 0 -- 3+ & 0 -- 2+ \\
+	Dobutamine & 1+ & 4+ & 2+ \\
+\end{tabular}
+\caption*{\small \textit{Note: Scale from 0 - 4+}}
+\end{table}
+
+
+\todo[inline]{Add basic description of each vasopressor and their general place in therapy}
+\section{Vasopressors}
+\subsection{Vasoconstricters}
+\begin{itemize}[noitemsep]
+	\item Phenylephrine
+	\item Norepinephrine
+	\item Vasopressin
+	\item Angiotensin II
+\end{itemize}
+
+\subsection{Inopressors}
+\begin{itemize}[noitemsep]
+	\item Epinephrine
+	\item Dopamine \todo[inline]{Sepsis trial comparing DA to EPI}
+\end{itemize}
+
+\subsection{Inodilators}
+\begin{itemize}[noitemsep]
+	\item Dobutamine
+	\item Milrinone
+\end{itemize}
+
+\todo[inline]{Finish table from lexi or AHA guidelines}
+\begin{table}[h]
+	\centering
+	\caption{Milrinone Dosing\autocite{lexi-drugsMilrinone} }
+	\label{tab:milrinone-dosing}
+	\begin{tabular}{l c c c}
+		\textbf{CrCL \si{mL/min}} & \textbf{Initial \si{mcg/kg/min}} & \textbf{Max} \si{mcg/kg/min} & \textbf{Titration} \si{mcg/kg/min} \\ \hline
+		\textgreater50 &  & & \\
+		40 & & & \\
+		30 & & & \\
+		20 & & & \\
+		10 & & & \\
+		5 & & & \\
+	\end{tabular}
+\end{table}
+
+\begin{table*}[hbt]
+\centering
+\caption{Vasopressor Dosing \autocite{overgaardInotropesVasopressorsReview2008a,jentzerPharmacotherapyUpdateUse2015b}}
+\label{tab:vasopressor-dosing}
+\rowcolors{2}{white}{tableColor}
+\begin{tabular}{l l c c c}
+	\textbf{Drug} & \textbf{Units} & \textbf{Initial} & \textbf{$\mathbf{\approx}$ Max} & \textbf{Titration}\\ \hline
+	\multicolumn{5}{l}{\textbf{Vasopressors}} \\
+	Norepinephrine & \si{mcg/min} & 5 & 50 & 5 Q5min \\
+	Phenylephrine & \si{mcg/min} &  20 & 200 & 20 Q10min \\
+	Vasopressin & \si{Units/min} & 0.03 & 0.03 & Fixed \\
+	Ang-II & \si{ng/kg/min} & 10 & 80 (\textless 3hr); 40 (\textgreater 3hr)& 5 Q5min \\
+	\multicolumn{5}{l}{\textbf{Inopressors}}\\
+	Epinephrine & \si{mcg/min} & 5 & 30 & 5 Q5min \\
+	Dopamine & \si{mcg/kg/min} & 5 & 50 & 2 Q5min\\
+	\multicolumn{5}{l}{\textit{Inodilators}}\\
+	Dobutamine & \si{mcg/kg/min} & 2.5 -- 5 & 40 & 2.5 -- 5 Q5min \\
+	Milrinone & \si{mcg/kg/min} & \multicolumn{3}{c}{See \autoref{tab:milrinone-dosing}} \\
+\end{tabular}
+\end{table*}
+
+\section{Push-Dose Pressors\autocite{weingartPushdosePressorsImmediate2015a}}
+\subsection{Phenylephrine}
+\begin{itemize}[noitemsep]
+	\item Final Concentration: 100 \si{mcg/mL}
+	\item Dose: 0.5 -- 2 \si{mL} (50 -- 200 \si{mcg}) Q1-5min
+	\item Preparation
+	\begin{itemize}[noitemsep]
+		\item Add 10\si{mg} Phenylephrine (10 \si{mg} / 1 \si{mL}) to 100 \si{mL} NS
+		\item Final Concentration is 100 \si{mcg/mL} (10 \si{mg} / 100 \si{mL})
+	\end{itemize}
+\end{itemize}
+
+\subsection{Epinephrine}
+\begin{itemize}[noitemsep]
+	\item Final Concentration: 10 \si{mcg/mL}
+	\item Dose: 0.5 -- 2 \si{mL} (5 -- 20 \si{mcg}) Q1-5min
+	\item Preparation
+	\begin{itemize}[noitemsep]
+		\item 1 \si{mL} cardiac epinephrine (1 \si{mg} / 10 \si{mL})
+		\item Dilute to 10 \si{mL} NS, final concentration 100 \si{mcg} / 10 \si{mL} (10 \si{mcg/mL})
+		\item Can also use 0.1 \si{mL} anaphylaxis epinephrine (1 \si{mg/mL})
+	\end{itemize}
+\end{itemize}
+
+
+
+\printmybib
 \end{document}

@@ -1,0 +1,31 @@
+\documentclass[main.tex]{subfiles}
+\begin{document}
+	
+\newcommand{\cl}{\text{CL}}
+\newcommand{\e}[1]{\mathrm{e}^{#1}}
+\newcommand{\thl}{\mathrm{t}_{1/2}}
+\newcommand{\tinf}{t_{\text{inf}}}
+	
+\section{Equations}
+\begin{multicols}{3}
+	$$\cl = \text{Clearance}$$
+	$$k = \text{Rate Constant}$$
+	$$\thl = \text{Half-life}$$
+	$$C = \text{Concentration}$$
+	$$V_d = \text{Volume of Distribution}$$
+	$$D = \text{Dose}$$
+	$$F = \text{Bioavailability}$$
+	$$\tau = \text{Dosing Interval}$$
+	$$\tinf = \text{Infusion Time}$$
+\end{multicols}
+
+\begin{align}
+	\cl &= k\times V_d \\
+	C(t_2) &= C(t_1) \e{t_2-t_1} \\
+	C_{max} &= \frac{D \left(1-\e{-k \; \tinf}\right)}{V_d \; k \; \tinf \left(1-\e{-k \; \tau}\right)}
+\end{align}
+
+\todo[inline]{Complete equations, add description of PK, maybe some graphs, and PK/PD targets / parameters for specific drugs}
+	
+\end{document}
+		
