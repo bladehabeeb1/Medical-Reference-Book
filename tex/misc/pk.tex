@@ -1,11 +1,11 @@
 \documentclass[main.tex]{subfiles}
 \begin{document}
-	
-\newcommand{\cl}{\text{CL}}
+
+\newcommand{\cl}{CL}
 \newcommand{\e}[1]{\mathrm{e}^{#1}}
 \newcommand{\thl}{\mathrm{t}_{1/2}}
 \newcommand{\tinf}{t_{\text{inf}}}
-	
+
 \section{Equations}
 \begin{multicols}{3}
 	$$\cl = \text{Clearance}$$
@@ -17,15 +17,27 @@
 	$$F = \text{Bioavailability}$$
 	$$\tau = \text{Dosing Interval}$$
 	$$\tinf = \text{Infusion Time}$$
+	$$ \text{AUC}_{0 - 24} = \text{Area Under Curve} $$
 \end{multicols}
 
 \begin{align}
 	\cl &= k\times V_d \\
 	C(t_2) &= C(t_1) \e{t_2-t_1} \\
-	C_{max} &= \frac{D \left(1-\e{-k \; \tinf}\right)}{V_d \; k \; \tinf \left(1-\e{-k \; \tau}\right)}
+	C_{max} &= \frac{D \left(1-\e{-k \; \tinf}\right)}{V_d \; k \; \tinf \left(1-\e{-k \; \tau}\right)} \\
+	C_{min} &= C_{max} \; \e{-k\; \left( \tau - \tinf \right)}\\
+	\text{AUC}_{0 - 24} &= \frac{24}{\tau}\left( \frac{C_{max} + C_{min}}{2}\tinf + \frac{C_{max} - C_{min}}{k} \right)
 \end{align}
 
+\section{Drug-Specific PK}
+
+\subsection{Vancomycin}
+
+\subsection{Aminoglycosides}
+
+\subsection{Digoxin}
+
+\subsection{Immunousppressants}
+
 \todo[inline]{Complete equations, add description of PK, maybe some graphs, and PK/PD targets / parameters for specific drugs}
-	
+
 \end{document}
-		

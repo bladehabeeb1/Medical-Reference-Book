@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.13)  26 NOV 2019 21:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.13)  9 JAN 2020 16:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1628,40 +1628,36 @@ Package biblatex Info: Setting label 'refsection:1' on input line 23.
 Chapter 1.
 LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <20.74> not available
 (Font)              Font shape `OT1/phv/b/sc' tried instead on input line 24.
-(./tex/critical-care/vasopressors.tex
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 6.
+(./tex/id/hiv.tex
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 9.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 9.
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <17.28> not available
-(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 9.
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 11.
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 4.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 10.
 
 (/usr/local/texlive/2019basic/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 35.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 34.
  [3
 
 ]
-LaTeX Font Info:    Try loading font information for OML+phv on input line 68.
+LaTeX Font Info:    Try loading font information for OML+phv on input line 64.
 
 (/usr/local/texlive/2019basic/texmf-dist/tex/latex/psnfss/omlphv.fd
 File: omlphv.fd 
 )
 LaTeX Font Info:    Font shape `OML/phv/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 68.
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 92.
- [4])
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 64.
+)
 Package biblatex Info: Reference section=0 on input line 26.
-
-[5] [6
+ [4]
+[5
 
 ]
 \blx@maxsegment@2=\count504
@@ -1670,8 +1666,36 @@ Package biblatex Info: Reference section=2 on input line 30.
 Package biblatex Info: Setting label 'refsection:2' on input line 30.
 
 Chapter 2.
+(./tex/critical-care/vasopressors.tex
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 56.
+LaTeX Font Info:    Font shape `OML/phv/m/it' in size <9> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 56.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6
+
+]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 131.
+[7] [8])
+Package biblatex Info: Reference section=0 on input line 33.
+ [9] [10
+
+]
+\blx@maxsegment@3=\count506
+\blx@sectionciteorder@3=\count507
+Package biblatex Info: Reference section=3 on input line 37.
+Package biblatex Info: Setting label 'refsection:3' on input line 37.
+
+Chapter 3.
 (./tex/toxicology/methemoglobinemia.tex
-<img/methemoglobinemia/metabolism.png, id=140, 933.4875pt x 419.5675pt>
+<img/methemoglobinemia/metabolism.png, id=188, 933.4875pt x 419.5675pt>
 File: img/methemoglobinemia/metabolism.png Graphic file (type png)
 <use img/methemoglobinemia/metabolism.png>
 Package pdftex.def Info: img/methemoglobinemia/metabolism.png  used on input li
@@ -1684,16 +1708,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []\OT1/phv/m/n/9 (b) |Met-Hgb (left), Nor-mal
  []
 
-<img/methemoglobinemia/blood.jpg, id=142, 294.8616pt x 423.5022pt>
+<img/methemoglobinemia/blood.jpg, id=190, 294.8616pt x 423.5022pt>
 File: img/methemoglobinemia/blood.jpg Graphic file (type jpg)
 <use img/methemoglobinemia/blood.jpg>
 Package pdftex.def Info: img/methemoglobinemia/blood.jpg  used on input line 20
 .
 (pdftex.def)             Requested size: 124.66342pt x 179.0458pt.
-[7
+[11
 
  <./img/methemoglobinemia/metabolism.png> <./img/methemoglobinemia/blood.jpg>]
-<img/methemoglobinemia/color-chart.png, id=152, 982.67125pt x 212.795pt>
+<img/methemoglobinemia/color-chart.png, id=201, 982.67125pt x 212.795pt>
 File: img/methemoglobinemia/color-chart.png Graphic file (type png)
 <use img/methemoglobinemia/color-chart.png>
 Package pdftex.def Info: img/methemoglobinemia/color-chart.png  used on input l
@@ -1709,29 +1733,29 @@ LaTeX Font Info:    Font shape `OML/phv/m/it' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 71.
 LaTeX Font Info:    Font shape `OML/phv/bx/n' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 98.
-[8 <./img/methemoglobinemia/color-chart.png>])
-Package biblatex Info: Reference section=0 on input line 33.
- [9] [10
+[12 <./img/methemoglobinemia/color-chart.png>])
+Package biblatex Info: Reference section=0 on input line 40.
+ [13] [14
 
 ]
-\blx@maxsegment@3=\count506
-\blx@sectionciteorder@3=\count507
-Package biblatex Info: Reference section=3 on input line 38.
-Package biblatex Info: Setting label 'refsection:3' on input line 38.
+\blx@maxsegment@4=\count508
+\blx@sectionciteorder@4=\count509
+Package biblatex Info: Reference section=4 on input line 45.
+Package biblatex Info: Setting label 'refsection:4' on input line 45.
 
-Chapter 3.
+Chapter 4.
 (./tex/misc/pk.tex)
-Package biblatex Info: Reference section=0 on input line 41.
- [11
+Package biblatex Info: Reference section=0 on input line 48.
+ [15
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 50.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 50.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0E693B353675A86256A625F34F66D81A;312.
+(rerunfilecheck)             Checksum: CA393C8E3B851EAD47018ED1FFA5C844;410.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1741,11 +1765,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42333 strings out of 494060
- 846505 string characters out of 6163035
- 1288380 words of memory out of 5000000
- 45358 multiletter control sequences out of 15000+600000
- 576009 words of font info for 100 fonts, out of 8000000 for 9000
+ 42390 strings out of 494060
+ 847920 string characters out of 6163035
+ 1296908 words of memory out of 5000000
+ 45380 multiletter control sequences out of 15000+600000
+ 576367 words of font info for 101 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  69i,16n,94p,1998b,2299s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019basic/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/lo
@@ -1754,21 +1778,22 @@ cal/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr
 /usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
 fb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
 7.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr5.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr7.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmss10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/t
-ype1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/typ
-e1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1
-/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (13 pages, 470311 bytes).
+mmi9.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr5.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr7.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmss10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2019basic/texmf-dist/font
+s/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/
+type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/ty
+pe1/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (17 pages, 487218 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
- 203 compressed objects within 3 object streams
- 61 named destinations out of 1000 (max. 500000)
- 172 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 323 PDF objects out of 1000 (max. 8388607)
+ 259 compressed objects within 3 object streams
+ 91 named destinations out of 1000 (max. 500000)
+ 188 words of extra memory for PDF output out of 10000 (max. 10000000)
 
