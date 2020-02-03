@@ -1,41 +1,41 @@
 [0] Config.pm:304> INFO - This is Biber 2.13
 [0] Config.pm:307> INFO - Logfile is 'main.blg'
-[36] biber-darwin:315> INFO - === Thu Jan  9, 2020, 16:45:36
-[65] Biber.pm:375> INFO - Reading 'main.bcf'
-[169] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
-[170] Biber.pm:905> INFO - Found 2 citekeys in bib section 1
-[170] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
-[170] Biber.pm:905> INFO - Found 5 citekeys in bib section 2
-[170] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
-[170] Biber.pm:905> INFO - Found 5 citekeys in bib section 3
-[170] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
-[170] Biber.pm:905> INFO - Found 0 citekeys in bib section 4
-[170] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
-[212] Biber.pm:4196> INFO - Processing section 1
-[213] Utils.pm:75> INFO - Globbing data source './medical_reference_sheets.bib'
-[213] Utils.pm:91> INFO - Globbed data source './medical_reference_sheets.bib' to ./medical_reference_sheets.bib
-[226] Biber.pm:4373> INFO - Looking for bibtex format file './medical_reference_sheets.bib' for section 1
-[229] bibtex.pm:1462> INFO - LaTeX decoding ...
-[262] bibtex.pm:1281> INFO - Found BibTeX data source './medical_reference_sheets.bib'
-[280] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[280] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[280] Biber.pm:4024> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[280] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
-[287] Biber.pm:4196> INFO - Processing section 2
-[288] Utils.pm:75> INFO - Globbing data source './medical_reference_sheets.bib'
-[288] Utils.pm:91> INFO - Globbed data source './medical_reference_sheets.bib' to ./medical_reference_sheets.bib
-[288] Biber.pm:4373> INFO - Looking for bibtex format file './medical_reference_sheets.bib' for section 2
-[323] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[323] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[323] Biber.pm:4024> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[323] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
-[328] Biber.pm:4196> INFO - Processing section 3
-[328] Utils.pm:75> INFO - Globbing data source './medical_reference_sheets.bib'
-[328] Utils.pm:91> INFO - Globbed data source './medical_reference_sheets.bib' to ./medical_reference_sheets.bib
-[328] Biber.pm:4373> INFO - Looking for bibtex format file './medical_reference_sheets.bib' for section 3
-[402] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[402] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[402] Biber.pm:4024> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[402] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
-[408] bbl.pm:648> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[418] bbl.pm:751> INFO - Output to main.bbl
+[38] biber-darwin:315> INFO - === Mon Feb  3, 2020, 17:12:37
+[57] Biber.pm:375> INFO - Reading 'main.bcf'
+[164] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
+[164] Biber.pm:905> INFO - Found 1 citekeys in bib section 1
+[164] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
+[164] Biber.pm:905> INFO - Found 5 citekeys in bib section 2
+[164] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
+[165] Biber.pm:905> INFO - Found 5 citekeys in bib section 3
+[165] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
+[165] Biber.pm:905> INFO - Found 0 citekeys in bib section 4
+[165] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
+[204] Biber.pm:4196> INFO - Processing section 1
+[204] Utils.pm:75> INFO - Globbing data source './medical_reference_sheets.bib'
+[205] Utils.pm:91> INFO - Globbed data source './medical_reference_sheets.bib' to ./medical_reference_sheets.bib
+[215] Biber.pm:4373> INFO - Looking for bibtex format file './medical_reference_sheets.bib' for section 1
+[220] bibtex.pm:1462> INFO - LaTeX decoding ...
+[253] bibtex.pm:1281> INFO - Found BibTeX data source './medical_reference_sheets.bib'
+[268] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[268] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[268] Biber.pm:4024> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[268] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[272] Biber.pm:4196> INFO - Processing section 2
+[273] Utils.pm:75> INFO - Globbing data source './medical_reference_sheets.bib'
+[273] Utils.pm:91> INFO - Globbed data source './medical_reference_sheets.bib' to ./medical_reference_sheets.bib
+[273] Biber.pm:4373> INFO - Looking for bibtex format file './medical_reference_sheets.bib' for section 2
+[309] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[309] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[310] Biber.pm:4024> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[310] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[316] Biber.pm:4196> INFO - Processing section 3
+[316] Utils.pm:75> INFO - Globbing data source './medical_reference_sheets.bib'
+[316] Utils.pm:91> INFO - Globbed data source './medical_reference_sheets.bib' to ./medical_reference_sheets.bib
+[316] Biber.pm:4373> INFO - Looking for bibtex format file './medical_reference_sheets.bib' for section 3
+[383] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[383] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[383] Biber.pm:4024> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[383] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[388] bbl.pm:648> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[397] bbl.pm:751> INFO - Output to main.bbl

@@ -1,38 +1,40 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\contentsline {part}{I\hspace {1em}Infectious Disease}{2}{part.1}% 
-\contentsline {chapter}{\numberline {1}HIV}{3}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Diagnosis}{3}{section.1.1}% 
-\contentsline {subsection}{\numberline {1.1.1}Initial Testing}{3}{subsection.1.1.1}% 
-\contentsline {subsubsection}{Drug Resistance Testing}{3}{section*.3}% 
-\contentsline {subsection}{\numberline {1.1.2}Follow-Up Testing}{3}{subsection.1.1.2}% 
-\contentsline {section}{\numberline {1.2}Drug Classes}{4}{section.1.2}% 
-\contentsline {section}{\numberline {1.3}Drug Therapy}{4}{section.1.3}% 
-\contentsline {subsection}{\numberline {1.3.1}Goals of Therapy}{4}{subsection.1.3.1}% 
-\contentsline {subsection}{\numberline {1.3.2}When to delay therapy}{4}{subsection.1.3.2}% 
-\contentsline {subsection}{\numberline {1.3.3}Testing Prior to Drug Therapy}{4}{subsection.1.3.3}% 
-\contentsline {subsection}{\numberline {1.3.4}Guideline-Recommended Initial Therapies}{4}{subsection.1.3.4}% 
-\contentsline {subsection}{\numberline {1.3.5}Other Treatment Considerations}{4}{subsection.1.3.5}% 
-\contentsline {part}{II\hspace {1em}Critical Care}{5}{part.2}% 
-\contentsline {chapter}{\numberline {2}Vasopressors}{6}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Receptor Pharmacology}{6}{section.2.1}% 
-\contentsline {section}{\numberline {2.2}Vasopressors}{6}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}Vasoconstricters}{6}{subsection.2.2.1}% 
-\contentsline {subsection}{\numberline {2.2.2}Inopressors}{7}{subsection.2.2.2}% 
-\contentsline {subsection}{\numberline {2.2.3}Inodilators}{7}{subsection.2.2.3}% 
-\contentsline {section}{\numberline {2.3}Push-Dose Pressors \autocite {weingartPushdosePressorsImmediate2015a}}{7}{section.2.3}% 
-\contentsline {subsection}{\numberline {2.3.1}Phenylephrine}{7}{subsection.2.3.1}% 
-\contentsline {subsection}{\numberline {2.3.2}Epinephrine}{8}{subsection.2.3.2}% 
-\contentsline {part}{III\hspace {1em}Toxicology}{10}{part.3}% 
-\contentsline {chapter}{\numberline {3}Methemoglobinemia}{11}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Pathophysiology}{11}{section.3.1}% 
-\contentsline {subsection}{\numberline {3.1.1}Causes}{11}{subsection.3.1.1}% 
-\contentsline {section}{\numberline {3.2}Diagnosis}{12}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}Treatment}{12}{section.3.3}% 
-\contentsline {part}{IV\hspace {1em}Miscellaneous}{14}{part.4}% 
-\contentsline {chapter}{\numberline {4}Pharmacokinetics}{15}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Equations}{15}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}Drug-Specific PK}{15}{section.4.2}% 
-\contentsline {subsection}{\numberline {4.2.1}Vancomycin}{15}{subsection.4.2.1}% 
-\contentsline {subsection}{\numberline {4.2.2}Aminoglycosides}{15}{subsection.4.2.2}% 
-\contentsline {subsection}{\numberline {4.2.3}Digoxin}{15}{subsection.4.2.3}% 
-\contentsline {subsection}{\numberline {4.2.4}Immunousppressants}{15}{subsection.4.2.4}% 
+\contentsline {part}{I\hspace {1em}Pulmonology}{2}{part.1}% 
+\contentsline {chapter}{\numberline {1}COPD}{3}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Diagnosis and Staging}{3}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Treatment}{3}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}Principles of Treatment}{3}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}Primary Therapies}{4}{subsection.1.2.2}% 
+\contentsline {subsubsection}{Group A}{4}{section*.6}% 
+\contentsline {subsubsection}{Group B}{4}{section*.7}% 
+\contentsline {subsubsection}{Group C}{4}{section*.8}% 
+\contentsline {subsubsection}{Group D}{4}{section*.9}% 
+\contentsline {subsubsection}{Treatment Escalation}{4}{section*.10}% 
+\contentsline {subsection}{\numberline {1.2.3}Supplemental Therapies}{4}{subsection.1.2.3}% 
+\contentsline {section}{\numberline {1.3}Exacerbations}{5}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}Staging}{5}{subsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.3.2}Treatment}{5}{subsection.1.3.2}% 
+\contentsline {part}{II\hspace {1em}Critical Care}{6}{part.2}% 
+\contentsline {chapter}{\numberline {2}Vasopressors}{7}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Receptor Pharmacology}{7}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Vasopressors}{7}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Vasoconstricters}{7}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Inopressors}{8}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}Inodilators}{8}{subsection.2.2.3}% 
+\contentsline {section}{\numberline {2.3}Push-Dose Pressors \autocite {weingartPushdosePressorsImmediate2015a}}{8}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Phenylephrine}{8}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}Epinephrine}{9}{subsection.2.3.2}% 
+\contentsline {part}{III\hspace {1em}Toxicology}{11}{part.3}% 
+\contentsline {chapter}{\numberline {3}Methemoglobinemia}{12}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Pathophysiology}{12}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Causes}{12}{subsection.3.1.1}% 
+\contentsline {section}{\numberline {3.2}Diagnosis}{13}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Treatment}{13}{section.3.3}% 
+\contentsline {part}{IV\hspace {1em}Miscellaneous}{15}{part.4}% 
+\contentsline {chapter}{\numberline {4}Pharmacokinetics}{16}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Equations}{16}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Drug-Specific PK}{16}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Vancomycin}{16}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Aminoglycosides}{16}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}Digoxin}{16}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.4}Immunousppressants}{16}{subsection.4.2.4}% 

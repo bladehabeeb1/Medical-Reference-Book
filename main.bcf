@@ -2143,8 +2143,7 @@
     <bcf:datasource type="file" datatype="bibtex">./medical_reference_sheets.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="1">
-    <bcf:citekey order="1" nocite="1">centersfordiseasecontrolandpreventionGuidelinesPreventionTreatment2019</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">centersfordiseasecontrolandpreventionGuidelinesUseAntiretroviral2019</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">goldsciencecommitteeGlobalInitiativeChronic2019</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
